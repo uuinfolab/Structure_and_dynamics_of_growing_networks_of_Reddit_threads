@@ -12,11 +12,11 @@ _[InfoLab](https://uuinfolab.github.io/), Department of Information Technology, 
 <a href="https://doi.org/10.1007/s41109-024-00654-y"><img src="https://zenodo.org/badge/DOI/10.1007/s41109-024-00654-y.svg" alt="DOI"></a></br>
 <!--<a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/stargazers"><img src="https://img.shields.io/github/stars/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads" alt="GitHub stars" /></a>
 <a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads" /></a>-->
-<a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/blob/main/LICENSE">
-  <img alt="License" src="https://img.shields.io/github/license/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads">
-</a> <a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/releases">
+<a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/releases">
   <img alt="GitHub release date" src="https://img.shields.io/github/release-date/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads">
-</a> <a href="uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads"></a>
+</a> <a href="uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads"></a><a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/blob/main/LICENSE">
+  <img alt="License" src="https://img.shields.io/github/license/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads">
+</a>
 
 
 
@@ -75,7 +75,7 @@ python main.py
 Open access funding provided by Uppsala University. This work has been partly funded by [eSSENCE](https://www.essenceofescience.se/w/es/en), an e-Science collaboration funded as a strategic research area of Sweden. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
 
 # Rights
-This work is licensed under the [GNU General Public License](/LICENSE).
+This work is licensed under the [MIT License](/LICENSE).
 
 - If you use this **code**, please cite the following paper:
 > Goglia, D., Vega, D. Structure and dynamics of growing networks of Reddit threads. Appl Netw Sci 9, 48 (2024). [10.1007/s41109-024-00654-y](https://doi.org/10.1007/s41109-024-00654-y)
