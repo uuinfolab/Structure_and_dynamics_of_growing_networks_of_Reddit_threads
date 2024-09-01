@@ -14,11 +14,9 @@ _[InfoLab](https://uuinfolab.github.io/), Department of Information Technology, 
 <a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads" /></a>-->
 <a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/blob/main/LICENSE">
   <img alt="License" src="https://img.shields.io/github/license/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads">
-</a>
-<a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/releases">
+</a> <a href="https://github.com/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads/releases">
   <img alt="GitHub release date" src="https://img.shields.io/github/release-date/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads">
-</a>
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads">
+</a> <a href="uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/uuinfolab/Structure_and_dynamics_of_growing_networks_of_Reddit_threads"></a>
 
 
 
