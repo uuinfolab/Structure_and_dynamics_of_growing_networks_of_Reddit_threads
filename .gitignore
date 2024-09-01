@@ -12625,3 +12625,6 @@ data-analysis/network-data/networks_in_time.zip
 src/__pycache__/AITA_data.cpython-39.pyc
 src/__pycache__/network_analysis.cpython-39.pyc
 src/__pycache__/utilities.cpython-39.pyc
+data-analysis/network-data/user_edgelists.csv
+data-tidy/comm_tree_edgelist_responsiveness.csv
+data-tidy/comm_tree_edgelist_withvote.csv
